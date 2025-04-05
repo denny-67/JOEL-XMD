@@ -6,7 +6,7 @@ const config = {
   SESSION_ID: process.env.SESSION_ID || "JOEL~XMD~WZj0KrAR",
   PREFIX: process.env.PREFIX || '.',
 //let's add menu captions by lord joel
-   BOT_NAME: process.env.BOT_NAME || "ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ ᴠ¹⁰",
+   BOT_NAME: process.env.BOT_NAME || "kiddy jr bot",
    BOT: process.env.BOT || "hello 👋",
   // lets add new cmd by lord joel
   NEW_CMD: process.env.NEW_CMD || "ᴀᴅᴅᴠᴀʀ\n│ sᴜᴅᴏ\| joel",
